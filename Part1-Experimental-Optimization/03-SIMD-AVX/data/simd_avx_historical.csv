@@ -1,0 +1,3 @@
+﻿method,time_seconds,speedup
+Without AVX,25.928071,1.00
+With AVX,20.161636,1.29

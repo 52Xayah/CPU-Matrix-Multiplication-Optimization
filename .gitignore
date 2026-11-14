@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.exe
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+matrix_original
+matrix_pack_reuse

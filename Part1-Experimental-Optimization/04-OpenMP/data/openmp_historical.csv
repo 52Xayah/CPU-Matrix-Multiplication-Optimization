@@ -1,0 +1,7 @@
+﻿threads,time_seconds,speedup,efficiency_percent,data_source
+1,202.617213,1.00,100.00,Table 2-2
+2,101.286759,2.00,100.00,Table 2-2
+4,55.552043,3.65,91.25,Table 2-2
+8,28.364944,7.14,89.25,Table 2-2
+12,20.161636,10.05,83.75,Section 4.3 and Table 2-5
+16,55.939662,3.62,22.63,Table 2-2

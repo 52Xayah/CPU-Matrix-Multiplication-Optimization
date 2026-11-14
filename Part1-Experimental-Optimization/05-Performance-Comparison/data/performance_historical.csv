@@ -1,0 +1,5 @@
+﻿method,time_seconds,speedup,gflops,source
+Serial,5510.266554,1.00,0.20,Table 2-5
+Blocked,260.358425,21.16,4.22,Table 2-5
+Blocked+AVX,202.617213,27.20,5.43,Table 2-5
+Blocked+AVX+OpenMP,20.161636,273.30,54.53,Table 2-5
